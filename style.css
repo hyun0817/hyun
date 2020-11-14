@@ -1,0 +1,11 @@
+div {
+    font-size : 20pt;
+    margin : 20px;
+    padding-left : 30px;
+    border-bottom : 5px dotted rgb(0, 225, 255);
+    border-left : 2px solid rgb(107, 0, 128);
+    line-height : 2;
+  }
+  .link{
+    border-right : 3px solid green;
+  }
