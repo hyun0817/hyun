@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 5px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  text-align: center;    
+}
+</style>
+</head>
+<body>
+
+<h2>SNS</h2>
+<p>사람들이 많이 이용하는 SNS</p>
+
+<table style="width:100%">
+  <tr>
+    <th>SNS</th>
+    <th>페이스북</th>
+    <th>인스타그램</th>
+    <th>카카오톡</th>
+  </tr>
+  <tr>
+    <td>주소</td>
+    <td>https://www.facebook.com/</td>
+    <td>https://www.instagram.com/</td>
+     <td>https://www.kakaocorp.com/service/KakaoTalk?lang=ko</td>
+  </tr>
+</table>
+
+</body>
+</html>
