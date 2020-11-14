@@ -1,1 +1,39 @@
-6789
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>HTML/CSS연습</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  <style>
+  div {
+    font-size : 20pt;
+    margin : 20px;
+    padding-left : 30px;
+    border-bottom : 5px dotted blue;
+    border-left : 2px solid green;
+    line-height : 2;
+  }
+  .link{
+    border-right : 3px solid green;
+  }
+  </style>
+  </head>
+  <body>
+
+<div>HTML Documents</span>
+<mark>All HTML do</mark>cuments <small>must start with</small> a document type declaration:<mark>&lt;!DOCTYPE html>.</mark>
+</div>
+<div>
+The HTML document itself begins with <mark>&lt;html></mark> and ends with <mark>&lt;/html>.</mark>
+</div>
+<div>
+The visible part of the HTML document is between &lt;body> and <mark>&lt;/body>.</mark></div>
+
+  <div class=:"link">
+    <a href="link.html">즐겨찾기</a>
+  </div>
+  </body>
+</html>
+
+
