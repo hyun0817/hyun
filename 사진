@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+</style>
+</head>
+<body>
+
+<h2>Thumbnail Images</h2>
+<p>Use the border property to create thumbnail images:</p>
+
+<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F5110%2F2013%2F06%2F26%2Ffacebook_home_logo_580-100034106-large_59_20130627021409.jpg&type=sc960_832" alt="Paris" style="width:150px">
+
+</body>
+</html>
